@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ApiWeb",
+    "\\Aplicacion",
+    "\\Aplicacion\\Feautres",
+    "\\Aplicacion\\Feautres\\Libros",
+    "\\Aplicacion\\Feautres\\Libros\\Comandos",
+    "\\Aplicacion\\Feautres\\Libros\\Comandos\\ModificarLibro",
+    "\\Aplicacion\\Mappings"
+  ],
+  "SelectedNode": "\\Aplicacion\\Feautres\\Libros\\Comandos\\ModificarLibro\\ModificarLibroValidacion.cs",
+  "PreviewInSolutionExplorer": false
+}
