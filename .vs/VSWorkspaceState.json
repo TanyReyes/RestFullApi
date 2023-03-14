@@ -7,8 +7,10 @@
     "\\Aplicacion\\Feautres\\Libros",
     "\\Aplicacion\\Feautres\\Libros\\Comandos",
     "\\Aplicacion\\Feautres\\Libros\\Comandos\\ModificarLibro",
+    "\\Aplicacion\\Feautres\\Libros\\Consultas",
+    "\\Aplicacion\\Feautres\\Libros\\Consultas\\ObtenerLibroPorId",
     "\\Aplicacion\\Mappings"
   ],
-  "SelectedNode": "\\Aplicacion\\Feautres\\Libros\\Comandos\\ModificarLibro\\ModificarLibroValidacion.cs",
+  "SelectedNode": "\\Aplicacion\\Feautres\\Libros\\Consultas\\ObtenerLibroPorId\\ObtenerLibroId.cs",
   "PreviewInSolutionExplorer": false
 }
